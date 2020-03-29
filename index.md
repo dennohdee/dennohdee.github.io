@@ -61,7 +61,6 @@
   </nav>
 
   <div class="container-fluid p-0">
-
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
       <div class="w-100">
         <h1 class="mb-0">Kiprotich
@@ -96,13 +95,10 @@
         </div>
       </div>
     </section>
-
     <hr class="m-0">
-
     <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
       <div class="w-100">
         <h2 class="mb-5">Experience</h2>
-
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
             <h3 class="mb-0">Software Developer</h3>
@@ -114,7 +110,6 @@
             <span class="text-primary">December 2019 - Present</span>
           </div>
         </div>
-
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
             <h3 class="mb-0">Software Developer Intern</h3>
@@ -129,7 +124,6 @@
             <span class="text-primary">October 2019 - December 2019</span>
           </div>
         </div>
-
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
             <h3 class="mb-0">ICT Support Specialist</h3>
@@ -144,7 +138,6 @@
             <span class="text-primary">June 2019 - August 2019</span>
           </div>
         </div>
-
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
           <div class="resume-content">
             <h3 class="mb-0">Chairperson DSC</h3>
@@ -161,17 +154,12 @@
             <span class="text-primary">April 2018 - April 2019</span>
           </div>
         </div>
-
       </div>
-
     </section>
-
     <hr class="m-0">
-
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="education">
       <div class="w-100">
         <h2 class="mb-5">Education</h2>
-
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
             <h3 class="mb-0">Kibabii University <h3>
@@ -182,7 +170,6 @@
             <span class="text-primary">August 2015 - April 2019</span>
           </div>
         </div>
-
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
           <div class="resume-content">
             <h3 class="mb-0">Kapmaso Secondary School</h3>
@@ -193,16 +180,12 @@
             <span class="text-primary">February 2011 - November 2014</span>
           </div>
         </div>
-
       </div>
     </section>
-
     <hr class="m-0">
-
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="skills">
       <div class="w-100">
         <h2 class="mb-5">Skills</h2>
-
         <div class="subheading mb-3">Programming Languages &amp; Tools</div>
         <ul class="list-inline dev-icons">
           <li class="list-inline-item" title="HTML 5">
@@ -252,7 +235,6 @@
         skills, ability to listen effectively to users and colleagues and make sound
         decisions for optimal solutions to problems or functions. I have superior team
         collaboration and project management abilities, with explicit leadership skills.
-
         <div class="subheading mb-3">Workflow</div>
         <ul class="fa-ul mb-0">
           <li>
@@ -270,9 +252,7 @@
         </ul>
       </div>
     </section>
-
     <hr class="m-0">
-
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="interests">
       <div class="w-100">
         <h2 class="mb-5">Interests</h2>
@@ -280,9 +260,7 @@
         <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.</p>
       </div>
     </section>
-
     <hr class="m-0">
-
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="awards">
       <div class="w-100">
         <h2 class="mb-5">Personal Attributes</h2>
@@ -329,9 +307,7 @@
         </ul> -->
       </div>
     </section>
-
   </div>
-
   <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
