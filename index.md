@@ -243,6 +243,7 @@
             <i class="fa-li fa fa-check"></i>
             Agile Development, Kanban &amp; Scrum</li>
         </ul>
+        <figure><embed src="https://wakatime.com/share/@denniskiprotich/2f77ea7f-7151-4899-abe8-d03db333791b.svg"></embed></figure>
       </div>
     </section>
     <hr class="m-0">
